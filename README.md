@@ -1,28 +1,42 @@
-LIMKOKWING UNIVERSITY OF CREATIVE TECHNOLOGY
-Principle of Structured Programming 
-Assignment 1
-Jude Johnson      
-9045006459
-BITsem2
+# Limkokwing Student Academic Portal
 
-Student Record Management Terminal System
+A GUI-based Student Academic Management System built with Python and Tkinter.
 
-Description
-The Student Record Management Terminal System is a Python terminal-based application used to manage student academic records. It allows users to:
+## 🎯 Project Overview
+This system helps students manage their academic records efficiently. It allows students to:
+- Register courses
+- Record grades
+- Calculate GPA
+- View academic status
 
-- Add student details
-- Enter test and exam scores
-- Calculate total and average scores
-- Assign grades automatically
-- View all student records
+**Aligned with SDG 4: Quality Education**
 
-Programming Concepts Used
-- Variables
-- Data Types
-- Conditional Statements
-- Loops
-- Functions
-- Lists and Dictionaries
+---
 
-SDG Relevance
-This project supports Sustainable Development Goal 4: Quality Education by improving the efficiency of educational record management.
+## ✨ Features
+
+- User-friendly Login System (Student ID, Name, Email)
+- Add multiple courses with grades
+- Automatic GPA Calculation
+- Academic Status Determination (Promoted / On Probation / Repeat)
+- Clean and responsive GUI interface
+- Input validation
+
+---
+
+## 🛠 Technologies Used
+
+- **Python 3**
+- **Tkinter** (for GUI)
+- Structured Programming Principles (Functions, Classes, Decision Structures, Loops)
+
+---
+
+## 🚀 How to Run
+
+1. Make sure you have Python installed
+2. Open the project folder in PyCharm / Terminal
+3. Run the following command:
+
+```bash
+python main.py
